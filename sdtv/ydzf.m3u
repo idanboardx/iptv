@@ -31,8 +31,6 @@ http://53836925.xyz:8888/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000345/ind
 http://53836925.xyz:8888/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000323/index.m3u8
 #EXTINF:-16tvg-name="CCTV15"tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/CCTV15.png"group-title="央视频道" catchup="default"catchup-source="http://53836925.xyz:8888/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV15
 http://53836925.xyz:8888/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000346/index.m3u8
-#EXTINF:-17tvg-name="CCTV16"tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/CCTV16.png"group-title="央视频道" catchup="default"catchup-source="http://53836925.xyz:8888/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV16
-http://53836925.xyz:8888/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000649/index.m3u8
 #EXTINF:-18tvg-name="CCTV17"tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/CCTV17.png"group-title="央视频道" catchup="default"catchup-source="http://53836925.xyz:8888/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV17
 http://53836925.xyz:8888/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000303/index.m3u8
 #EXTINF:-19tvg-name="CCTV4K"tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/CCTV4K.png"group-title="央视频道" catchup="default"catchup-source="http://53836925.xyz:8888/ucdn.sd.chinamobile.com:8089/00/SNM/CHANNEL00000382/index.m3u8?startTime=${(b)10}&endTime=${(e)10}" ,CCTV4K
