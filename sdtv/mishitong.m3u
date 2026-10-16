@@ -1,0 +1,79 @@
+#EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/sggc/SD-EPG/refs/heads/main/EPG/sggc.xml.gz"
+#EXTINF:-1 tvg-name="睛彩竞技" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/睛彩竞技.png" group-title="咪视通",睛彩竞技
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/睛彩篮球.png" group-title="咪视通",睛彩篮球
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/睛彩青少.png" group-title="咪视通",睛彩青少
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-01" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-01
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-02" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-02
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-03" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-03
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-04" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-04
+http://221.181.100.64/gslbserv.itv.cmvideo.cn//index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-05" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-05
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-06" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-06
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-07" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-07
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-08" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-08
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-09" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-09
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-10" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-10
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-11" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-11
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-12" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-12
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-13" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-13
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-14" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-14
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-15" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-15
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-16" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-16
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-17" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-17
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-18" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-18
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-19" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-19
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-20" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-20
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-21" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-21
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-22" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-22
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-23" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-23
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-24" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-24
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-25" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-25
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-26" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-26
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-27" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-27
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-28" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-28
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-29" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-29
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-30" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-30
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-31" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-31
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-32" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-32
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-33" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-33
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-33" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-33
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-34" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-34
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=IPTV
+#EXTINF:-1 tvg-name="咪视界-35" tvg-logo="https://fastly.jsdelivr.net/gh/idanboardx/iptv@master/logo/咪视界.png" group-title="咪视通",咪视界-35
+http://221.181.100.64/gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=IPTV
